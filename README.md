@@ -30,6 +30,7 @@ Related videos with LED Matrix Displays:
 - Three knob controller: https://youtu.be/e2UNsZPjHkk
 - Really old display: https://youtu.be/PBaL9w5w-2c
 
+_This video is sponsored by PCBway. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBway! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 ![THUMB_hexagonal_neopixel_displays](https://github.com/upiir/arduino_hexagonal_displays/assets/117754156/ba695f10-1f3f-47b2-9f07-a18fe821f9b6)
 
